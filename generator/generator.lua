@@ -9,6 +9,7 @@ cp2c.save_data("./outheader.h",[[#include <ft2build.h>
 #include FT_GLYPH_H             // <freetype/ftglyph.h>
 #include FT_SYNTHESIS_H         // <freetype/ftsynth.h>
 #include FT_OUTLINE_H  //<freetype/ftoutln.h>
+#include FT_COLOR_H //(freetype/ftcolor.h)
 ]])
 
 
